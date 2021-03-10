@@ -1,12 +1,27 @@
 body{
     background-color: #262626;
 }
+div{
+    border-style: solid;
+    border-color: #404040;
+    border-radius: 5px;
+    background-color: #404040;
+}
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 20px;
     color: white;
 }
 h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    color: white;
+}
+table{
+    margin: 10px;
+    width: 100%;
+} 
+td, tr{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 20px;
     color: white;
